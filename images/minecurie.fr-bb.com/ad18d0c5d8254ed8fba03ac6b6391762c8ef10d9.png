@@ -1,0 +1,17 @@
+<script language="JavaScript"> document.location.href="http://www.hostingpics.net/?action=erreur&erreur=404"</script><SCRIPT LANGUAGE="JavaScript">
+function _eStat_Whap_loaded_func(){
+eStatWhap.serial("800000207099");
+eStatWhap.send();
+}
+(function() {
+var myscript = document.createElement('script');
+myscript.src = "https://w.estat.com/js/whap.js";
+myscript.setAttribute('async', 'true');
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(myscript, s);
+} )();
+</SCRIPT>
+<div id='216-15'><script src='//ads.themoneytizer.com/s/gen.js?type=15'></script><script src='//ads.themoneytizer.com/s/requestform.js?siteId=216&formatId=15'></script></div>
+</body>
+
+</html>

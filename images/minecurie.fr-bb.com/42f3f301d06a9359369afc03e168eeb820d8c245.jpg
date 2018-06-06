@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<!-- Meta Tag -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>SZdavid &#8211; Blog sur l&#039;actu Informatique, Web et Hi-tech</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SZdavid &raquo; Flux" href="https://www.szdavid.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SZdavid &raquo; Flux des commentaires" href="https://www.szdavid.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.szdavid.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CPlayfair+Display%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/bootstrap.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/fancybox.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/font-awesome.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/owl-carousel.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/animate.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blogzine-reset-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/default.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-nav-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/slicknav.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blogzine-style-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='blogzine-responsive-css'  href='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/css/responsive.css?ver=4.7.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.szdavid.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.szdavid.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.szdavid.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.szdavid.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.6" />
+					
+						<style type="text/css">	
+													#site-header{
+								background:url('https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/img/header-image.png');
+								background-size: cover;
+							}
+												</style>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+</head>
+<body class="home blog hfeed js">
+
+	<!-- Header Area -->
+	<header id="site-header" class="site-header">
+		<!-- Start Topbar -->
+        <div class="topbar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-12">
+                    								        <ul id="menu-main" class="top-nav">
+							        								        </ul>
+							                           </div>
+					<div class="col-lg-6 col-12">
+						<div class="top-right">
+						
+												</div>
+                    </div>
+				</div>
+            </div>
+        </div>
+		<!--/ End Topbar -->
+		
+		<!-- Middle Header -->
+		<div class="middle-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<!-- Logo -->
+						<div class="logo">
+															<h2><a href="https://www.szdavid.com/" rel="home">SZdavid</a></h2>
+															<p>Blog sur l&#039;actu Informatique, Web et Hi-tech</p>
+																
+						</div>
+						<!--/ End Logo -->
+						<div class="mobile-nav"></div>
+					</div>
+					<div class="col-12">
+						<!-- Main Menu -->
+						<div class="main-menu">
+							<nav class="nav">
+															        <ul id="menu-top-1" class="nav menu">
+							        								        </ul>
+							       								
+							</nav>
+						</div>
+						<!--/ End Main Menu -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Middle Header -->
+    </header>
+	<!--/ End Header Area -->	<!--/ End Header Area -->
+
+	
+	
+   <!-- Main Area -->
+	<section id="main-area" class="main-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9 col-12">
+					<div class="blog-area">	
+
+												<div class="single-blog">
+					<article id="post-25" class="post-25 post type-post status-publish format-standard has-post-thumbnail hentry category-ubuntu-linux">
+							<!-- Blog Head -->
+						<div class="blog-head">
+								<div class="heading">
+																				<span class="date">On <a href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/" rel="bookmark"><time class="entry-date published" datetime="2018-04-20T20:01:52+00:00">avril 20, 2018</time><time class="updated" datetime="2018-04-20T20:04:56+00:00">avril 20, 2018</time></a></span>	
+																												    <h2><a href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/" rel="bookmark">Mon Ubuntu sur Asus, ça donne quoi ?</a></h2>
+																		<p class="author"> Posted by <span class="author vcard"><a class="url fn n" href="https://www.szdavid.com/author/root_y163fkut/">admin</a></span></p>								</div>
+																
+	<a class="post-thumbnail" href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/" aria-hidden="true">
+		<img width="678" height="450" src="https://www.szdavid.com/wp-content/uploads/2018/04/asus-ubuntu.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Mon Ubuntu sur Asus, ça donne quoi ?" srcset="https://www.szdavid.com/wp-content/uploads/2018/04/asus-ubuntu.png 678w, https://www.szdavid.com/wp-content/uploads/2018/04/asus-ubuntu-300x199.png 300w" sizes="(max-width: 678px) 100vw, 678px" />	</a>
+
+																	<p>Bonjour, c’est chose faite, mon Sony Vaio qui m’a été fidèle pas mal de temps a rendu l’âme… Mais je ne me suis pas laissé abattre et je me suis laissé tenter par l’Asus Z99S-4P059C. Pour passer rapidement sur les specs : Ordinateur 14″ Mémoire vive 2go Disque dur 160Go Dual core T5250 1.5Ghz Carte [&hellip;]</p>
+								<a href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/" class="btn primary"><i class="fa fa-plus"></i>
+							Read More</a>
+						</div>
+							<!-- Blog Bottom -->
+							<div class="blog-bottom">
+								<div class="bottom-inner">
+									
+									<ul class="labels"><span class="cat-links">Posted in <a href="https://www.szdavid.com/category/ubuntu-linux/" rel="category tag">Blog Ubuntu - Linux</a></span></ul>									<div class="comments"><a href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/#respond">Leave a Comment<span class="screen-reader-text"> on Mon Ubuntu sur Asus, ça donne quoi ?</span></a></div>								</div>
+								
+							</div>
+						</article>	
+					</div>
+					
+
+
+				<div class="single-blog">
+					<article id="post-22" class="post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-ubuntu-linux">
+							<!-- Blog Head -->
+						<div class="blog-head">
+								<div class="heading">
+																				<span class="date">On <a href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/" rel="bookmark"><time class="entry-date published" datetime="2018-04-20T19:59:16+00:00">avril 20, 2018</time><time class="updated" datetime="2018-04-20T20:05:12+00:00">avril 20, 2018</time></a></span>	
+																												    <h2><a href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/" rel="bookmark">Fenêtre dans le coin sur Ubuntu</a></h2>
+																		<p class="author"> Posted by <span class="author vcard"><a class="url fn n" href="https://www.szdavid.com/author/root_y163fkut/">admin</a></span></p>								</div>
+																
+	<a class="post-thumbnail" href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/" aria-hidden="true">
+		<img width="1920" height="1080" src="https://www.szdavid.com/wp-content/uploads/2018/04/ubuntu-fenetre.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Fenêtre dans le coin sur Ubuntu" srcset="https://www.szdavid.com/wp-content/uploads/2018/04/ubuntu-fenetre.jpg 1920w, https://www.szdavid.com/wp-content/uploads/2018/04/ubuntu-fenetre-300x169.jpg 300w, https://www.szdavid.com/wp-content/uploads/2018/04/ubuntu-fenetre-768x432.jpg 768w, https://www.szdavid.com/wp-content/uploads/2018/04/ubuntu-fenetre-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />	</a>
+
+																	<p>Bonjour, lors de la réinstallation de ma machine, je me suis retrouvé bien embêté : toutes les fenêtres que j’ouvrais se retrouvaient dans le coin en haut à droite, et je devais déplacer la fenêtre tant bien que mal ou cacher mon tableau de bord supérieur pour pouvoir la manipuler. Pourtant, la solution est tellement [&hellip;]</p>
+								<a href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/" class="btn primary"><i class="fa fa-plus"></i>
+							Read More</a>
+						</div>
+							<!-- Blog Bottom -->
+							<div class="blog-bottom">
+								<div class="bottom-inner">
+									
+									<ul class="labels"><span class="cat-links">Posted in <a href="https://www.szdavid.com/category/ubuntu-linux/" rel="category tag">Blog Ubuntu - Linux</a></span></ul>									<div class="comments"><a href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/#respond">Leave a Comment<span class="screen-reader-text"> on Fenêtre dans le coin sur Ubuntu</span></a></div>								</div>
+								
+							</div>
+						</article>	
+					</div>
+					
+
+
+				<div class="single-blog">
+					<article id="post-19" class="post-19 post type-post status-publish format-standard has-post-thumbnail hentry category-ubuntu-linux">
+							<!-- Blog Head -->
+						<div class="blog-head">
+								<div class="heading">
+																				<span class="date">On <a href="https://www.szdavid.com/installer-evernote-sur-ubuntu/" rel="bookmark"><time class="entry-date published" datetime="2018-04-20T19:56:44+00:00">avril 20, 2018</time><time class="updated" datetime="2018-04-20T20:05:17+00:00">avril 20, 2018</time></a></span>	
+																												    <h2><a href="https://www.szdavid.com/installer-evernote-sur-ubuntu/" rel="bookmark">Installer Evernote sur Ubuntu</a></h2>
+																		<p class="author"> Posted by <span class="author vcard"><a class="url fn n" href="https://www.szdavid.com/author/root_y163fkut/">admin</a></span></p>								</div>
+																
+	<a class="post-thumbnail" href="https://www.szdavid.com/installer-evernote-sur-ubuntu/" aria-hidden="true">
+		<img width="1200" height="800" src="https://www.szdavid.com/wp-content/uploads/2018/04/evernote-ubuntu.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Installer Evernote sur Ubuntu" srcset="https://www.szdavid.com/wp-content/uploads/2018/04/evernote-ubuntu.jpg 1200w, https://www.szdavid.com/wp-content/uploads/2018/04/evernote-ubuntu-300x200.jpg 300w, https://www.szdavid.com/wp-content/uploads/2018/04/evernote-ubuntu-768x512.jpg 768w, https://www.szdavid.com/wp-content/uploads/2018/04/evernote-ubuntu-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />	</a>
+
+																	<p>L’installation de cette application n’est pas difficile en elle-même mais elle peut étre risquée, installant un logiciel Windows sur un systéme qui n’était pas prévu pour. Evernote est une application web permettant de prendre des notes au fur et à mesure de votre navigation sur le web. Il y en a énomément de ce style [&hellip;]</p>
+								<a href="https://www.szdavid.com/installer-evernote-sur-ubuntu/" class="btn primary"><i class="fa fa-plus"></i>
+							Read More</a>
+						</div>
+							<!-- Blog Bottom -->
+							<div class="blog-bottom">
+								<div class="bottom-inner">
+									
+									<ul class="labels"><span class="cat-links">Posted in <a href="https://www.szdavid.com/category/ubuntu-linux/" rel="category tag">Blog Ubuntu - Linux</a></span></ul>									<div class="comments"><a href="https://www.szdavid.com/installer-evernote-sur-ubuntu/#respond">Leave a Comment<span class="screen-reader-text"> on Installer Evernote sur Ubuntu</span></a></div>								</div>
+								
+							</div>
+						</article>	
+					</div>
+					
+
+
+				<div class="single-blog">
+					<article id="post-16" class="post-16 post type-post status-publish format-standard has-post-thumbnail hentry category-astuces-informatique">
+							<!-- Blog Head -->
+						<div class="blog-head">
+								<div class="heading">
+																				<span class="date">On <a href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/" rel="bookmark"><time class="entry-date published" datetime="2018-04-20T19:46:37+00:00">avril 20, 2018</time><time class="updated" datetime="2018-04-20T20:05:22+00:00">avril 20, 2018</time></a></span>	
+																												    <h2><a href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/" rel="bookmark">Statistiques Gmail avec Mail-trends</a></h2>
+																		<p class="author"> Posted by <span class="author vcard"><a class="url fn n" href="https://www.szdavid.com/author/root_y163fkut/">admin</a></span></p>								</div>
+																
+	<a class="post-thumbnail" href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/" aria-hidden="true">
+		<img width="700" height="393" src="https://www.szdavid.com/wp-content/uploads/2018/04/statistiques-gmail.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Statistiques Gmail avec Mail-trends" srcset="https://www.szdavid.com/wp-content/uploads/2018/04/statistiques-gmail.jpg 700w, https://www.szdavid.com/wp-content/uploads/2018/04/statistiques-gmail-300x168.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />	</a>
+
+																	<p>Voici une application totalement inutile mais tellement indispensable… Mail-trends vous permet de connaître des statistiques de votre compte Gmail Pour l’installer, téléchargez le fichier tar.gz Voici les commandes pour la ligne de commande : sudo apt-get install python-cheetah tar xvzf mail-trends-20080326.tar.gz cd mail-trends Ensuite, lancez la commande suivante (le \ permet le retour à la ligne) en remplaçant username@gmail.com par [&hellip;]</p>
+								<a href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/" class="btn primary"><i class="fa fa-plus"></i>
+							Read More</a>
+						</div>
+							<!-- Blog Bottom -->
+							<div class="blog-bottom">
+								<div class="bottom-inner">
+									
+									<ul class="labels"><span class="cat-links">Posted in <a href="https://www.szdavid.com/category/astuces-informatique/" rel="category tag">Blog astuces informatique</a></span></ul>									<div class="comments"><a href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/#respond">Leave a Comment<span class="screen-reader-text"> on Statistiques Gmail avec Mail-trends</span></a></div>								</div>
+								
+							</div>
+						</article>	
+					</div>
+					
+
+
+				<div class="single-blog">
+					<article id="post-10" class="post-10 post type-post status-publish format-standard has-post-thumbnail hentry category-astuces-informatique">
+							<!-- Blog Head -->
+						<div class="blog-head">
+								<div class="heading">
+																				<span class="date">On <a href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/" rel="bookmark"><time class="entry-date published" datetime="2018-04-20T19:40:34+00:00">avril 20, 2018</time><time class="updated" datetime="2018-04-20T20:05:28+00:00">avril 20, 2018</time></a></span>	
+																												    <h2><a href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/" rel="bookmark">Stockage et sauvegarde de mots de passe KEEPASS</a></h2>
+																		<p class="author"> Posted by <span class="author vcard"><a class="url fn n" href="https://www.szdavid.com/author/root_y163fkut/">admin</a></span></p>								</div>
+																
+	<a class="post-thumbnail" href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/" aria-hidden="true">
+		<img width="640" height="334" src="https://www.szdavid.com/wp-content/uploads/2018/04/gestionnaire-de-mots-de-passe.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Stockage et sauvegarde de mots de passe KEEPASS" srcset="https://www.szdavid.com/wp-content/uploads/2018/04/gestionnaire-de-mots-de-passe.png 640w, https://www.szdavid.com/wp-content/uploads/2018/04/gestionnaire-de-mots-de-passe-300x157.png 300w" sizes="(max-width: 640px) 100vw, 640px" />	</a>
+
+																	<p>Bonjour, je ne suis jamais satisfait de ma façon de gérer mes mots de passe ; il y a toujours quelque chose qui ne me satisfait pas entièrement… Je vous avais, par exemple, parlé de PassPack. mais au final, je me suis vite retrouvé coincé dans sa version gratuite et… que se passe-t-il si ils doivent [&hellip;]</p>
+								<a href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/" class="btn primary"><i class="fa fa-plus"></i>
+							Read More</a>
+						</div>
+							<!-- Blog Bottom -->
+							<div class="blog-bottom">
+								<div class="bottom-inner">
+									
+									<ul class="labels"><span class="cat-links">Posted in <a href="https://www.szdavid.com/category/astuces-informatique/" rel="category tag">Blog astuces informatique</a></span></ul>									<div class="comments"><a href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/#respond">Leave a Comment<span class="screen-reader-text"> on Stockage et sauvegarde de mots de passe KEEPASS</span></a></div>								</div>
+								
+							</div>
+						</article>	
+					</div>
+					
+
+
+
+					</div>
+				</div>
+				
+<div class="col-lg-3 col-12">
+	<div class="sidebar">
+		<div id="search-2" class="single-sidebar widget_search"><div class="search-form">
+		<form class="form" action="https://www.szdavid.com/">
+			<label class="screen-reader-text" for="s">Search for:</label>
+			 <input type="text" value="" name="s" id="s" placeholder="&hellip;"  />
+				<button type="submit" id="searchsubmit" />
+           			<span class="icon"><i class="fa fa-search"></i></span>   
+      			</button>
+		</form>
+</div></div>		<div id="recent-posts-2" class="single-sidebar widget_recent_entries">		<h2>Articles récents</h2>		<ul>
+											<li>
+					<a href="https://www.szdavid.com/mon-ubuntu-sur-asus-ca-donne-quoi/">Mon Ubuntu sur Asus, ça donne quoi ?</a>
+									</li>
+											<li>
+					<a href="https://www.szdavid.com/fenetre-dans-le-coin-sur-ubuntu/">Fenêtre dans le coin sur Ubuntu</a>
+									</li>
+											<li>
+					<a href="https://www.szdavid.com/installer-evernote-sur-ubuntu/">Installer Evernote sur Ubuntu</a>
+									</li>
+											<li>
+					<a href="https://www.szdavid.com/statistiques-gmail-avec-mail-trends/">Statistiques Gmail avec Mail-trends</a>
+									</li>
+											<li>
+					<a href="https://www.szdavid.com/stockage-et-sauvegarde-de-mots-de-passe-keepass/">Stockage et sauvegarde de mots de passe KEEPASS</a>
+									</li>
+					</ul>
+		</div><div id="recent-comments-2" class="single-sidebar widget_recent_comments"><h2>Commentaires récents</h2><ul id="recentcomments"></ul></div><div id="categories-2" class="single-sidebar widget_categories"><h2>Catégories</h2>		<ul>
+	<li class="cat-item cat-item-4"><a href="https://www.szdavid.com/category/astuces-informatique/" >Blog astuces informatique</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://www.szdavid.com/category/ubuntu-linux/" >Blog Ubuntu &#8211; Linux</a>
+</li>
+		</ul>
+</div>	</div>
+</div>			</div>
+		</div>
+	</section>
+	<!--/ End Main Area -->
+		
+	<!-- Footer -->
+	<footer class="footer">
+		<div class="footer-top">
+			<div class="container">
+				<div class="row">
+					<!-- Single Widget -->
+					<div class="col-lg-4 col-md-4 col-12">
+											</div>
+					<!--/ End Single Widget -->
+					<!-- Single Widget -->
+					<div class="col-lg-4 col-md-4 col-12">
+											</div>
+					<!--/ End Single Widget -->
+					<!-- Single Widget -->
+					<div class="col-lg-4 col-md-4 col-12">
+											</div>
+					<!--/ End Single Widget -->
+				</div>
+			</div>
+		</div>
+		<!-- Footer Bottom -->
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-12">
+						<!-- Copyright -->
+						<div class="copyright">
+							<p><a href="https://wordpress.org/">Proudly powered by WordPress</a>
+						<span class="sep"> | </span>
+						contact[arobase]szdavid.com</p>
+						</div>
+						<!--/ End Copyright -->
+					</div>
+					<div class="col-lg-6 col-md-6 col-12">
+											</div>
+				</div>
+            </div>
+		</div>	
+		<!--/ End Footer Bottom -->
+	</footer>
+	<!--/ End footer -->	
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/popper.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/bootstrap.js?ver=4.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/slick-nav.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/magnific-popup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/fancybox.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/owl-carousel.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/scrollup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/active.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/js/skip-link-focus-fix.js?ver=20151215'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.szdavid.com/wp-content/themes/blogzine/scorpionthemes/js/respond.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.szdavid.com/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+</body>
+</html>

@@ -1,0 +1,178 @@
+<html xml:lang="fr-FR" lang="fr-FR">
+<head>
+<title qtlid="28806">Félicitations ! Votre domaine a bien été créé chez OVH !</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="fr-FR">
+<meta http-equiv="keywords" name="keywords" content="OVH, noms de domaines, serveur dédié, hébergement mutualisé, cloud computing, private cloud, téléphonie sur IP, VoIP, SMS, fax, emails, exchange, VPS, superplan, 1u, 2u, 4u, noc, network operating center, burst, bande passante, linux, redhat, debian, php, perl, mysql, bind, qmail, webalizer, webmin, backup, backup hebdomadaire, haute disponibilité, serveur mutualisé, hébergement dédié">
+<meta http-equiv="description" name="description" content="OVH accompagne votre évolution grâce au meilleur des infrastructures web : hébergement, nom de domaine, serveur dédié, CDN, Cloud, Big Data, ...">
+<meta name="Copyright" content="OVH">
+<meta name="Author" content="OVH">
+<meta name="robots" content="none,noindex,nofollow">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="DP.PopRank" content="2.00000">
+<link rel="icon" href="/__ovh/fr/img/favicon.ico" type="image/gif" translate="none">
+<script src="/__ovh/fr/res/punycode.min.js"></script><script src="/__ovh/fr/res/jquery-1.11.3.min.js"></script><script language="javascript" translate="none">
+                    $(window).load( function() {
+                        $('#domain').text( punycode.toUnicode( $('#domain').text()));
+                    });
+                </script><style type="text/css" translate="none">
+                    body { background: #4C9FA8 url('/__ovh/fr/img/background3.jpg') repeat 0 0; background-repeat: repeat; margin: 0; color: #333333; font-family: 'Trebuchet MS'; text-shadow: 1px 1px 0 #FFF; }
+                    br { clear: both; }
+                    h1, h2, p { margin: 0; }
+
+                    .center { text-align: center; }
+                    .bold { font-weight: bold; }
+                    .full { width: 100%; }
+
+                    .fs21 { font-size: 21px; }
+                    .lh30 { line-height: 30px; }
+
+                    .half { width: 50%; }
+                    .half33 { width: 33%; }
+                    .Fleft { float: left; }
+                    .Fright { float: right; }
+
+                    .wrapper { margin: 0 auto; width: 929px; }
+                    .site { background-color: #EEEEEE; padding: 20px 8px 20px 8px; margin-top: 30px; position: relative; }
+
+                    .ovhcom { display: block; position: absolute; top: 60px; left: -49px; width: 49px; height: 154px; background: transparent url('/__ovh/fr/img/ovhcom.png') no-repeat 0 100%; text-decoration: none;}
+                    .ovhcom:hover { background-position: 0 0; }
+                    .ovhcomshadow { display: block; position: absolute; left: -40px; top: 212px; width: 40px; height: 22px; background: transparent: url('/__ovh/fr/img/small-shadow.png') no-repeat 0 0; }
+
+                    .felicitation { text-align: center; }
+                    .felicitation h1 { font-size: 60px; line-height: 60px; text-align: center; color: #50A3A5; }
+                    .felicitation p { font-size: 21px; line-height: 34px; }
+
+                    .redirect { display: table; }
+                    .redirect img { display: table-cell; }
+                    .redirect a { display: table-cell; vertical-align: middle; color: #3C3C3C; font-size: 14px; line-height: 20px; }
+                    .redirect:hover a { font-weight: bold; }
+
+                    .product { text-align: center; width: 33%; }
+                    .product h2 { font-weight: bold; font-size: 27px; margin: 10px 0 5px 0; }
+                    .product p { font-size: 14px; line-height: 20px; }
+                    .product a { font-size: 14px; font-weight: bold; color: #0068B1; }
+                    .product a:hover { text-decoration: none; }
+
+                    .product .web,
+                    .product .vps,
+                    .product .dedicated {
+                        display: block;
+                        text-decoration: none;
+                        width: 290px;
+                        height: 190px;
+                        margin: 0 auto;
+                        -moz-transition: all 0.2s ease-in-out 0s;
+                        -webkit-transition: all 0.2s ease-in-out 0s;
+                        -o-transition: all 0.2s ease-in-out 0s;
+                        -ms-transition: all 0.2s ease-in-out 0s;
+                        transition: all 0.2s ease-in-out 0s;
+                    }
+
+                    .product .web { background: transparent url('/__ovh/fr/img/mutu.png') no-repeat 0 0; }
+                    .product .vps { background: transparent url('/__ovh/fr/img/vps.png') no-repeat 0 0; }
+                    .product .dedicated { background: transparent url('/__ovh/fr/img/dedie.png') no-repeat 0 0; }
+
+                    .product .web:hover,
+                    .product .vps:hover,
+                    .product .dedicated:hover {
+                        -moz-transform: translateY(-2px);
+                        -webkit-transform: translateY(-2px);
+                        -o-transform: translateY(-2px);
+                        -ms-transform: translateY(-2px);
+                        transform: translateY(-2px);
+
+                        -moz-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -webkit-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -ms-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        -o-box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                        box-shadow: 0 0 0 1px rgba(255,255,255,0),  0 0 6px rgba(0,0,0,0.35);
+                    }
+
+                    .bottom-link { height: 43px; line-height: 43px; text-align: center; background-color: #2D7176; font-size: 10px; color: #FFF; text-shadow: 0 0 0 #000; }
+                    .bottom-link a { color: #FFF; margin: 0 5px; text-decoration: none; }
+                    .bottom-link a:hover { text-decoration: underline; }
+
+                    .bottom-shadow { background: transparent url('/__ovh/fr/img/shadow.jpg') no-repeat 0 0; width: 929px; height: 44px; }
+                </style>
+</head>
+<body><div class="wrapper">
+<div class="site">
+<a class="ovhcom" title="OVH.com" href="https://www.ovh.com/fr" qtlid_title="28819" qtlid="853"> </a><img src="/__ovh/fr/img/small-shadow.png" class="ovhcomshadow" qtlid_src="28845"><div class="felicitation">
+<h1 qtlid="28858">Félicitations !</h1>
+<p qtlid="28871;28897">Votre domaine <span class="bold" translate="none" id="domain">alexislemee.fr</span> a bien été créé chez OVH.</p>
+</div>
+<br><div class="full center"><img src="/__ovh/fr/img/hr.png" qtlid_src="28910"></div>
+<br><div class="Fleft half33"><div class="redirect">
+<a href="http://mail.ovh.net" target="_blank" title="Accédez au Webmail OVH" qtlid_title="28936"><img src="/__ovh/fr/img/icn-roundcube.png" style="margin: 0 20px;" qtlid_src="28949"></a><a href="http://mail.ovh.net" target="_blank" title="Accédez au Webmail OVH" qtlid="28962" qtlid_title="28936">Accédez à votre Webmail OVH</a>
+</div></div>
+<div class="Fleft half33"><div class="redirect">
+<a href="https://www.ovh.com/manager//" target="_blank" title="Accédez à votre Espace Client" qtlid_title="28988"><img src="/__ovh/fr/img/icn-univers_web.png" style="margin: 0 20px;" qtlid_src="29001"></a><a href="https://www.ovh.com/manager//" target="_blank" title="Accédez à votre Espace Client" qtlid="29014;29027" qtlid_title="28988">Configurez votre domaine<br>depuis votre Espace Client Web</a>
+</div></div>
+<div class="Fleft half33"><div class="redirect">
+<a href="https://www.ovh.com/fr/hebergement-web/faq/" target="_blank" title="Accédez à la FAQ" qtlid_title="53581"><img src="/__ovh/fr/img/ovh-logo.png" style="margin: 0 20px;" qtlid_src="53594"></a><a href="https://www.ovh.com/fr/hebergement-web/faq/" target="_blank" qtlid="53607;53620" qtlid_title="53581" title="Accédez à la FAQ">Consultez la liste des<br>questions fréquemment posées</a>
+</div></div>
+<br><br><div class="full center"><img src="/__ovh/fr/img/hr.png" qtlid_src="28910"></div>
+<br><div class="full">
+<p class="center fs21 lh30" qtlid="29040;29053">Vous pouvez dès à présent lui associer un hébergement,<br>en choisissant la solution la plus adaptée à vos besoins :</p>
+<br><div class="Fleft product">
+<a href="https://www.ovh.com/fr/hebergement-web/" title="Hébergement Web" class="web" qtlid_title="29079" qtlid="853"> </a><h2 qtlid="29079">Hébergement Web</h2>
+<p qtlid="29092;29105;29118;29131">Une solution économique<br>pour héberger vos projets Web :<br>site Internet, boutique en ligne,<br>landing page...</p>
+<br><br><a href="https://www.ovh.com/fr/hebergement-web/" qtlid="20372">En savoir plus</a>
+</div>
+<div class="Fleft product">
+<a href="https://www.ovh.com/fr/vps/" title="Virtual Private Server" class="vps" qtlid_title="29157" qtlid="853"> </a><h2 qtlid="29157">Virtual Private Server</h2>
+<p qtlid="29170;29183;29196;29209;29222">Alliez la flexibilité du Cloud<br>à la liberté du dédié<br>avec nos solutions VPS clef en main.<br>Accompagnez vos projets Web<br>vers une nouvelle étape.</p>
+<br><a href="https://www.ovh.com/fr/vps/" qtlid="20372">En savoir plus</a>
+</div>
+<div class="Fleft product">
+<a href="https://www.ovh.com/fr/serveurs_dedies/" title="Serveurs dédiés" class="dedicated" qtlid_title="29248" qtlid="853"> </a><h2 qtlid="29261">Serveur dédié</h2>
+<p qtlid="29274;29287;29300;29313;29326">Hébergez vos sites Web<br>sur une machine qui leur sera dédiée !<br>Puissance, polyvalence, liberté,<br>c'est la solution d'excellence<br>pour tous vos projets !</p>
+<br><a href="https://www.ovh.com/fr/serveurs_dedies/" qtlid="20372">En savoir plus</a>
+</div>
+<br>
+</div>
+</div>
+<div translate="none" style="display: none;"><div class="ovh-domain-signature" style="display:none">
+	<p data="a">
+		<span>a1</span><span>a2</span><span>a3</span><span>a4</span><span>a5</span><span>a6</span><span>a7</span><span>a8</span><span>a9</span><span>a10</span><span>a11</span><span>a12</span><span>a13</span><span>a14</span><span>a15</span><span>a16</span><span>a17</span><span>a18</span><span>a19</span><span>a20</span><span>a21</span><span>a22</span><span>a23</span><span>a24</span><span>a25</span><span>a26</span><span>a27</span><span>a28</span><span>a29</span><span>a30</span><span>a31</span><span>a32</span><span>a33</span><span>a34</span><span>a35</span><span>a36</span><span>a37</span><span>a38</span><span>a39</span><span>a40</span><span>a41</span><span>a42</span><span>a43</span><span>a44</span><span>a45</span><span>a46</span><span>a47</span><span>a48</span><span>a49</span>
+	</p>	<p data="l">
+		<span>l1</span><span>l2</span><span>l3</span><span>l4</span><span>l5</span><span>l6</span><span>l7</span><span>l8</span><span>l9</span><span>l10</span><span>l11</span><span>l12</span><span>l13</span><span>l14</span><span>l15</span><span>l16</span><span>l17</span><span>l18</span><span>l19</span><span>l20</span><span>l21</span><span>l22</span><span>l23</span><span>l24</span><span>l25</span><span>l26</span><span>l27</span><span>l28</span><span>l29</span><span>l30</span><span>l31</span><span>l32</span><span>l33</span><span>l34</span><span>l35</span><span>l36</span><span>l37</span><span>l38</span><span>l39</span><span>l40</span><span>l41</span><span>l42</span><span>l43</span><span>l44</span><span>l45</span><span>l46</span><span>l47</span><span>l48</span><span>l49</span><span>l50</span><span>l51</span><span>l52</span><span>l53</span><span>l54</span><span>l55</span><span>l56</span><span>l57</span><span>l58</span><span>l59</span><span>l60</span>
+	</p>	<p data="e">
+		<span>e1</span><span>e2</span><span>e3</span><span>e4</span><span>e5</span><span>e6</span><span>e7</span><span>e8</span><span>e9</span><span>e10</span><span>e11</span><span>e12</span><span>e13</span><span>e14</span><span>e15</span><span>e16</span><span>e17</span><span>e18</span><span>e19</span><span>e20</span><span>e21</span><span>e22</span><span>e23</span><span>e24</span><span>e25</span><span>e26</span><span>e27</span><span>e28</span><span>e29</span><span>e30</span><span>e31</span><span>e32</span><span>e33</span><span>e34</span><span>e35</span><span>e36</span><span>e37</span><span>e38</span><span>e39</span><span>e40</span><span>e41</span><span>e42</span><span>e43</span><span>e44</span><span>e45</span><span>e46</span><span>e47</span><span>e48</span><span>e49</span><span>e50</span><span>e51</span><span>e52</span><span>e53</span>
+	</p>	<p data="x">
+		<span>x1</span><span>x2</span><span>x3</span><span>x4</span><span>x5</span><span>x6</span><span>x7</span><span>x8</span><span>x9</span><span>x10</span><span>x11</span><span>x12</span><span>x13</span><span>x14</span><span>x15</span><span>x16</span><span>x17</span><span>x18</span><span>x19</span><span>x20</span><span>x21</span><span>x22</span><span>x23</span><span>x24</span><span>x25</span><span>x26</span><span>x27</span><span>x28</span><span>x29</span><span>x30</span><span>x31</span><span>x32</span><span>x33</span><span>x34</span><span>x35</span><span>x36</span><span>x37</span><span>x38</span><span>x39</span><span>x40</span><span>x41</span><span>x42</span><span>x43</span><span>x44</span><span>x45</span><span>x46</span><span>x47</span><span>x48</span><span>x49</span><span>x50</span><span>x51</span><span>x52</span><span>x53</span><span>x54</span><span>x55</span><span>x56</span><span>x57</span><span>x58</span><span>x59</span><span>x60</span><span>x61</span><span>x62</span><span>x63</span><span>x64</span><span>x65</span><span>x66</span><span>x67</span><span>x68</span><span>x69</span><span>x70</span><span>x71</span><span>x72</span>
+	</p>	<p data="i">
+		<span>i1</span><span>i2</span><span>i3</span><span>i4</span><span>i5</span><span>i6</span><span>i7</span><span>i8</span><span>i9</span><span>i10</span><span>i11</span><span>i12</span><span>i13</span><span>i14</span><span>i15</span><span>i16</span><span>i17</span><span>i18</span><span>i19</span><span>i20</span><span>i21</span><span>i22</span><span>i23</span><span>i24</span><span>i25</span><span>i26</span><span>i27</span><span>i28</span><span>i29</span><span>i30</span><span>i31</span><span>i32</span><span>i33</span><span>i34</span><span>i35</span><span>i36</span><span>i37</span><span>i38</span><span>i39</span><span>i40</span><span>i41</span><span>i42</span><span>i43</span><span>i44</span><span>i45</span><span>i46</span><span>i47</span><span>i48</span><span>i49</span><span>i50</span><span>i51</span><span>i52</span><span>i53</span><span>i54</span><span>i55</span><span>i56</span><span>i57</span>
+	</p>	<p data="s">
+		<span>s1</span><span>s2</span><span>s3</span><span>s4</span><span>s5</span><span>s6</span><span>s7</span><span>s8</span><span>s9</span><span>s10</span><span>s11</span><span>s12</span><span>s13</span><span>s14</span><span>s15</span><span>s16</span><span>s17</span><span>s18</span><span>s19</span><span>s20</span><span>s21</span><span>s22</span><span>s23</span><span>s24</span><span>s25</span><span>s26</span><span>s27</span><span>s28</span><span>s29</span><span>s30</span><span>s31</span><span>s32</span><span>s33</span><span>s34</span><span>s35</span><span>s36</span><span>s37</span><span>s38</span><span>s39</span><span>s40</span><span>s41</span><span>s42</span><span>s43</span><span>s44</span><span>s45</span><span>s46</span><span>s47</span><span>s48</span><span>s49</span><span>s50</span><span>s51</span><span>s52</span><span>s53</span><span>s54</span><span>s55</span><span>s56</span><span>s57</span><span>s58</span><span>s59</span><span>s60</span><span>s61</span><span>s62</span><span>s63</span><span>s64</span><span>s65</span><span>s66</span><span>s67</span>
+	</p>	<p data="l">
+		<span>l1</span><span>l2</span><span>l3</span><span>l4</span><span>l5</span><span>l6</span><span>l7</span><span>l8</span><span>l9</span><span>l10</span><span>l11</span><span>l12</span><span>l13</span><span>l14</span><span>l15</span><span>l16</span><span>l17</span><span>l18</span><span>l19</span><span>l20</span><span>l21</span><span>l22</span><span>l23</span><span>l24</span><span>l25</span><span>l26</span><span>l27</span><span>l28</span><span>l29</span><span>l30</span><span>l31</span><span>l32</span><span>l33</span><span>l34</span><span>l35</span><span>l36</span><span>l37</span><span>l38</span><span>l39</span><span>l40</span><span>l41</span><span>l42</span><span>l43</span><span>l44</span><span>l45</span><span>l46</span><span>l47</span><span>l48</span><span>l49</span><span>l50</span><span>l51</span><span>l52</span><span>l53</span><span>l54</span><span>l55</span><span>l56</span><span>l57</span><span>l58</span><span>l59</span><span>l60</span>
+	</p>	<p data="e">
+		<span>e1</span><span>e2</span><span>e3</span><span>e4</span><span>e5</span><span>e6</span><span>e7</span><span>e8</span><span>e9</span><span>e10</span><span>e11</span><span>e12</span><span>e13</span><span>e14</span><span>e15</span><span>e16</span><span>e17</span><span>e18</span><span>e19</span><span>e20</span><span>e21</span><span>e22</span><span>e23</span><span>e24</span><span>e25</span><span>e26</span><span>e27</span><span>e28</span><span>e29</span><span>e30</span><span>e31</span><span>e32</span><span>e33</span><span>e34</span><span>e35</span><span>e36</span><span>e37</span><span>e38</span><span>e39</span><span>e40</span><span>e41</span><span>e42</span><span>e43</span><span>e44</span><span>e45</span><span>e46</span><span>e47</span><span>e48</span><span>e49</span><span>e50</span><span>e51</span><span>e52</span><span>e53</span>
+	</p>	<p data="m">
+		<span>m1</span><span>m2</span><span>m3</span><span>m4</span><span>m5</span><span>m6</span><span>m7</span><span>m8</span><span>m9</span><span>m10</span><span>m11</span><span>m12</span><span>m13</span><span>m14</span><span>m15</span><span>m16</span><span>m17</span><span>m18</span><span>m19</span><span>m20</span><span>m21</span><span>m22</span><span>m23</span><span>m24</span><span>m25</span><span>m26</span><span>m27</span><span>m28</span><span>m29</span><span>m30</span><span>m31</span><span>m32</span><span>m33</span><span>m34</span><span>m35</span><span>m36</span><span>m37</span><span>m38</span><span>m39</span><span>m40</span><span>m41</span><span>m42</span><span>m43</span><span>m44</span><span>m45</span><span>m46</span><span>m47</span><span>m48</span><span>m49</span><span>m50</span><span>m51</span><span>m52</span><span>m53</span><span>m54</span><span>m55</span><span>m56</span><span>m57</span><span>m58</span><span>m59</span><span>m60</span><span>m61</span>
+	</p>	<p data="e">
+		<span>e1</span><span>e2</span><span>e3</span><span>e4</span><span>e5</span><span>e6</span><span>e7</span><span>e8</span><span>e9</span><span>e10</span><span>e11</span><span>e12</span><span>e13</span><span>e14</span><span>e15</span><span>e16</span><span>e17</span><span>e18</span><span>e19</span><span>e20</span><span>e21</span><span>e22</span><span>e23</span><span>e24</span><span>e25</span><span>e26</span><span>e27</span><span>e28</span><span>e29</span><span>e30</span><span>e31</span><span>e32</span><span>e33</span><span>e34</span><span>e35</span><span>e36</span><span>e37</span><span>e38</span><span>e39</span><span>e40</span><span>e41</span><span>e42</span><span>e43</span><span>e44</span><span>e45</span><span>e46</span><span>e47</span><span>e48</span><span>e49</span><span>e50</span><span>e51</span><span>e52</span><span>e53</span>
+	</p>	<p data="e">
+		<span>e1</span><span>e2</span><span>e3</span><span>e4</span><span>e5</span><span>e6</span><span>e7</span><span>e8</span><span>e9</span><span>e10</span><span>e11</span><span>e12</span><span>e13</span><span>e14</span><span>e15</span><span>e16</span><span>e17</span><span>e18</span><span>e19</span><span>e20</span><span>e21</span><span>e22</span><span>e23</span><span>e24</span><span>e25</span><span>e26</span><span>e27</span><span>e28</span><span>e29</span><span>e30</span><span>e31</span><span>e32</span><span>e33</span><span>e34</span><span>e35</span><span>e36</span><span>e37</span><span>e38</span><span>e39</span><span>e40</span><span>e41</span><span>e42</span><span>e43</span><span>e44</span><span>e45</span><span>e46</span><span>e47</span><span>e48</span><span>e49</span><span>e50</span><span>e51</span><span>e52</span><span>e53</span>
+	</p>	<hr/>
+	<p data="f">
+		<span>f1</span><span>f2</span><span>f3</span><span>f4</span><span>f5</span><span>f6</span><span>f7</span><span>f8</span><span>f9</span><span>f10</span><span>f11</span><span>f12</span><span>f13</span><span>f14</span><span>f15</span><span>f16</span><span>f17</span><span>f18</span><span>f19</span><span>f20</span><span>f21</span><span>f22</span><span>f23</span><span>f24</span><span>f25</span><span>f26</span><span>f27</span><span>f28</span><span>f29</span><span>f30</span><span>f31</span><span>f32</span><span>f33</span><span>f34</span><span>f35</span><span>f36</span><span>f37</span><span>f38</span><span>f39</span><span>f40</span><span>f41</span><span>f42</span><span>f43</span><span>f44</span><span>f45</span><span>f46</span><span>f47</span><span>f48</span><span>f49</span><span>f50</span><span>f51</span><span>f52</span><span>f53</span><span>f54</span>
+	</p>	<p data="r">
+		<span>r1</span><span>r2</span><span>r3</span><span>r4</span><span>r5</span><span>r6</span><span>r7</span><span>r8</span><span>r9</span><span>r10</span><span>r11</span><span>r12</span><span>r13</span><span>r14</span><span>r15</span><span>r16</span><span>r17</span><span>r18</span><span>r19</span><span>r20</span><span>r21</span><span>r22</span><span>r23</span><span>r24</span><span>r25</span><span>r26</span><span>r27</span><span>r28</span><span>r29</span><span>r30</span><span>r31</span><span>r32</span><span>r33</span><span>r34</span><span>r35</span><span>r36</span><span>r37</span><span>r38</span><span>r39</span><span>r40</span><span>r41</span><span>r42</span><span>r43</span><span>r44</span><span>r45</span><span>r46</span><span>r47</span><span>r48</span><span>r49</span><span>r50</span><span>r51</span><span>r52</span><span>r53</span><span>r54</span><span>r55</span><span>r56</span><span>r57</span><span>r58</span><span>r59</span><span>r60</span><span>r61</span><span>r62</span><span>r63</span><span>r64</span><span>r65</span><span>r66</span>
+	</p>
+</div></div>
+<div class="bottom-link" qtlid="29352;29352;29352;29352;29352;29352;29352;29352">
+<a href="https://www.ovh.com/" qtlid="29339">© 1999-2016 OVH</a> |
+                        <a href="https://www.ovh.com/fr/support/documents_legaux/" qtlid="29378">Mentions légales - Contrats</a> |
+                        <a href="https://www.ovh.com/fr/support/documents_legaux/payment.xml" qtlid="29404">Paiements</a> |
+                        <a href="https://www.ovh.com/fr/support/" qtlid="10849">Contactez-nous</a> |
+                        <a href="https://www.ovh.com/fr/apropos/" qtlid="29443">À propos d'OVH</a> |
+                        <a href="https://www.ovh.com/fr/espace-presse/" qtlid="29495" ovhInclude="fr">Espace presse</a><span ovhInclude="fr" qtlid="29352">|</span><a href="https://www.ovh.com/fr/support/outils/" qtlid="10407">Mon compte</a> |
+                        <a href="https://www.ovh.com/fr/careers/" qtlid="10836">OVH Recrute</a>
+</div>
+<div class="bottom-shadow" qtlid="853"> </div>
+</div></body>
+</html>

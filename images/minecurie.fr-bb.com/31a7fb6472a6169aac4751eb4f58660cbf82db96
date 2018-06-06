@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="/module/core/template/avalanche/ext/favicon.gif" rel="shortcut icon" />
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<meta name="description" content="Stockage en ligne, diffusez gratuitement et facilement vos fichiers sur internet" />
+		<meta name="keywords" content="gratuit,upload,uploader,envoi,envoyer,partager,diffuser,stockage,stocker,serveur,fichier,document,image,gif,jpg,png,video,musique,mp3,son" />
+				<link href="/module/core/template/avalanche/res/style.css" rel="stylesheet" type="text/css" />
+				<link href="/module/menu/template/avalanche/res/style.css" rel="stylesheet" type="text/css" />
+				<link href="/module/file/template/avalanche/res/style.css" rel="stylesheet" type="text/css" />
+				<link href="/module/file/template/avalanche/res32/style32.css" rel="stylesheet" type="text/css" />
+			<script src="/module/core/template/avalanche/ext/vz.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.core.hook.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.core.string.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.com.ajax.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.drag.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.edit.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.effect.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.find.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.frame.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.layer.js" type="text/javascript"></script>
+		<script src="/module/core/template/avalanche/ext/vz.dom.prop.js" type="text/javascript"></script>
+		<title>Mirari &sup2; - Accès à un fichier</title>
+			<script src="/module/core/template/avalanche/res/core.js" type="text/javascript"></script>
+						</head>
+	<body>
+		<div class="header">
+			<div class="side"></div>
+			<div class="body">
+				<img alt="Mirari" ondblclick="coreTitle (this);" src="/module/core/template/avalanche/ext/logo1.gif" width="160" height="30" />
+			</div>
+			<div class="side"></div>
+		</div>
+		<div class="main" id="main">
+			<div class="menu">
+				<div class="button">
+						<div class="s1"></div>
+					<div class="s2">
+						<a href="/file/send">Envoyer</a>
+					</div>
+					<div class="s3"></div>
+							<div class="s1"></div>
+					<div class="s2">
+						<a href="/user/account">Votre compte</a>
+					</div>
+					<div class="s3"></div>
+							<div class="s1"></div>
+					<div class="s2">
+						<a href="/user/list">Utilisateurs</a>
+					</div>
+					<div class="s3"></div>
+							<div class="c1"></div>
+					<div class="c2">
+						<a href="/file/list">Parcourir</a>
+					</div>
+					<div class="c3"></div>
+							<div class="s1"></div>
+					<div class="s2">
+						<a href="/wiki/view">Aide</a>
+					</div>
+					<div class="s3"></div>
+					</div>
+				<div class="head">
+					<div class="p3"></div>
+					<div class="p1"></div>
+					<div class="p2">
+						<span style="float: left;">
+							<a href="/file/list?c=8XNG">Fichiers :: Accès à un fichier</a>
+						</span>
+						<span style="float: right;">
+							
+						</span>
+					</div>
+				</div>
+				<div class="foot">
+					<div class="p5"></div>
+					<div class="p1"></div>
+					<div class="p4"></div>
+					<div class="p3"></div>
+					<div class="p2"></div>
+				</div>
+			</div>
+
+				<div class="box">
+					<div class="head">
+						<div class="p3"></div>
+						<div class="p1"></div>
+						<div class="p2">
+							<div class="icon">
+								<div class="file"></div>
+							</div>
+							Accès à un fichier
+						</div>
+					</div>
+					<div class="desc" id="file_get_desc">
+						<script type="text/javascript">
+						<!--
+							Vz.Effect.morph (document.getElementById ('file_get_desc'), {style : 'background', from : vv5ColorFrom, to : vv5ColorToFail, duration : 1000});
+						-->
+						</script>
+						Le fichier auquel vous voulez accéder n'est pas ou plus disponible. Il s'agissait peut-être d'un fichier dont le délai d'expiration a été dépassé, ou que son propriétaire a supprimé.
+					</div>
+					<div class="foot">
+						<div class="p5"></div>
+						<div class="p1"></div>
+						<div class="p4">Cet affichage est obtenu après traitement par le site et peut ne pas correspondre à l'état original du fichier</div>
+						<div class="p3"></div>
+						<div class="p2"></div>
+					</div>
+				</div>
+
+
+		</div>
+		<div class="sign">
+			&copy; <a href="http://remi.caput.fr/">RCa</a> 2011 :: 3 ms
+		</div>
+	</body>
+</html>

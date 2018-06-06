@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Créer un site web gratuit - Pages perso Orange</title>
+                            <meta name="description" content="Créez votre site web avec Orange, c'est simple et rapide avec le site express Orange." />
+                <link rel="canonical" href="https://pages.perso.orange.fr/">
+        <meta name="robots" content="index, follow" />
+        <!-- Boosted -->
+        <!--
+            Neue Helvetica is a trademark of Monotype Imaging Inc. registered in the U.S.
+            Patent and Trademark Office and may be registered in certain other jurisdictions.
+            Copyright © 2014 Monotype Imaging Inc. All rights reserved.
+            Orange Company had buy the right for used Helvetica onto digital applications.
+            If you are not autorized to used it, don't include the orangeHelvetica.css
+            See NOTICE.txt for more informations.
+        -->
+        <link rel="stylesheet" href="https://pages.perso.orange.fr/css/orangeHelvetica.css">
+        <!--
+            Orange Icons
+            Copyright (C) 2016 Orange SA All rights reserved
+            See NOTICE.txt for more informations.
+        -->
+        <link rel="stylesheet" href="https://pages.perso.orange.fr/css/orangeIcons.css">
+
+        <link rel="stylesheet" href="https://pages.perso.orange.fr/css/boosted.min.css">
+
+                    <link rel="stylesheet" href="https://pages.perso.woopic.com/fo/css/main.css?v=6158">
+        
+        <!-- ID Zone en PHP -->
+        <script type="text/javascript" src="//iz.orange.fr/$v=2;i=pagesperso_I1;d=1528118064;s=6eaa3ad9aa3b1ecff41fcc2f28543bcf2d413c157dbc6bc3c14511a61883f132/idzone.js"></script>
+
+        <!-- Elements communs -->
+                    <script type="text/javascript">
+                var ASSET_QUERY_STRING = '?v=6158';
+                var o_confCommon = {
+                        typeEnv: "prod",
+                        centeredPage: true,
+                        polaris3Mode: true,
+                        domainTitle: "<h1 class='service-title smartphone'>Pages perso</h1>",
+                        domainUrl: "https://pages.perso.orange.fr/",
+                        domainImg: {type: "html", src: "<h1 class='service-title'>Pages perso</h1>"}
+                };
+
+                // common element script to insert in header
+                var commonEl = document.createElement('script');
+                commonEl.type = 'text/javascript';
+
+                var head = document.getElementsByTagName('head')[0];
+
+                var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+                if (width > 960) { // Desktop
+                    commonEl.src = '//c.woopic.com/libs/common/o_load.js';
+                } else if (width >= 768) { // Tablet
+                    commonEl.src = '//c.woopic.com/libs/common/o_load_responsive.js';
+                } else { // Mobile
+                    commonEl.src = '//c.woopic.com/libs/common/o_load_responsive_mobile.js';
+                }
+
+                // insert common element in head
+                head.appendChild(commonEl);
+            </script>
+        
+        <!-- Orange player -->
+        <script type="text/javascript" src="//c.woopic.com/Pvp/js/pvp-min.js"></script>
+
+        <script src="https://pages.perso.woopic.com/fo/js/vendor/modernizr.js?v=6158"></script>
+
+        <!-- Favicons -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://pages.perso.woopic.com/fo/images/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://pages.perso.woopic.com/fo/images/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://pages.perso.woopic.com/fo/images/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="https://pages.perso.woopic.com/fo/images/apple-touch-icon-57-precomposed.png">
+        <link rel="shortcut icon" href="https://pages.perso.woopic.com/fo/images/favicon.ico">
+    </head>
+
+
+<body>
+    <div id="menu" class="o-nav-local">
+    <nav class="container">
+        <ul class="nav">
+            <li class="nav-item active ">
+                <a class="nav-link" href="/" aria-current="page">Accueil</a>
+            </li>
+                        <li class="nav-item ">
+                <a class="nav-link" href="/pages-perso-more" >Détail de l'offre</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://annuaire-pp.orange.fr" target="_blank">Annuaire</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+    <div class="container">
+        <main id="home-page">
+
+    <div id="prospect"></div>
+    
+    <div id="carousel-home" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="carousel-item slide1 active">
+                <div class="row row-eq-height">
+                    <div class="col-md-6 col-sm-12">
+                        <img src="/images/carrousel_0.png?v=6158" alt="pages perso compatible PC, tablettes et mobiles" height="245" class="img-fluid img-carrousel-home">
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <div class="carousel-caption">
+                            <h1 class="h3 title">Créez votre site internet</h1>
+                            <ul class="list-unstyled">
+                                <li><h2>rapidement et simplement,</h2></li>
+                                <li><h2>6 Go d’espace pour enrichir vos sites</h2></li>
+                                <li><h2>optimisé pour tous les écrans</h2></li>
+                                <li><h2>inclus dans votre offre internet Orange</h2></li>
+                            </ul>
+                            <a href="pages-perso-more" class="o-link-arrow">en savoir plus</a>
+                            <br>
+                            <br>
+                            <div>
+                                                                    <a href="pages-perso-tdb&create=1" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-primary btn-sm">Créer un site</a>
+                                    <a href="pages-perso-tdb" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-info btn-sm">Gérer vos sites</a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item slide2">
+                <div class="row row-eq-height">
+                    <div class="col-md-6 col-sm-12">
+                        <img src="/images/carrousel_2.png?v=6158" alt="nouvel assistant pages perso Orange" height="245" class="img-fluid img-carrousel-home">
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <div class="carousel-caption">
+                            <h1 class="h3 title">Votre site sans coder avec l’assistant</h1>
+                            <ul class="list-unstyled">
+                                <li><h2>textes, photos et widgets en quelques clics</h2></li>
+                                <li><h2>aucune connaissance technique requise</h2></li>
+                                <li><h2>un superbe site à votre image</h2></li>
+                            </ul>
+                            <a href="#" class="video-demo-link o-link-arrow" data-target="#modal-video">voir la vidéo de l’assistant</a>
+                            <br>
+                            <br>
+                            <div>
+                                                                    <a href="pages-perso-tdb&create=1" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-primary btn-sm">Créer un site</a>
+                                    <a href="pages-perso-tdb" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-info btn-sm">Gérer vos sites</a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item slide3">
+                <div class="row row-eq-height">
+                    <div class="col-md-6 col-sm-12">
+                        <img src="/images/carrousel_3.png?v=6158" alt="pages perso compatible PC, tablettes et mobiles" height="245" class="img-fluid img-carrousel-home">
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <div class="carousel-caption">
+                            <h1 class="h3 title">Votre site internet en toute sécurité</h1>
+                            <ul class="list-unstyled">
+                                <li><h2>hébergement en France</h2></li>
+                                <li><h2>sécurisation des données</h2></li>
+                                <li><h2>des contenus riches en toute sérénité</h2></li>
+                            </ul>
+                            <a href="pages-perso-more" class="o-link-arrow">en savoir plus</a>
+                            <br>
+                            <br>
+                            <div>
+                                                                    <a href="pages-perso-tdb&create=1" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-primary btn-sm">Créer un site</a>
+                                    <a href="pages-perso-tdb" data-toggle="tooltip" data-placement="top" title="Pour accéder au service, utilisez l’identifiant de votre compte internet Orange principal" class="btn btn-info btn-sm">Gérer vos sites</a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="carousel-control-prev" href="#carousel-home" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel-home" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    
+    <div id="help-section" class="row accordion-section">
+    <div class="col-md-12">
+        <div class="o-accordion" role="tablist">
+            <div class="card">
+                <div class="card-header" role="tab" id="accordionHelp">
+                    <h4 class="card-title"><a class="collapsed" role="tab" data-toggle="collapse" href="#collapseHelp" aria-expanded="false" aria-controls="collapseHelp">Besoin d'aide sur vos pages perso ?</a></h4>
+                </div>
+                <div id="collapseHelp" class="collapse" role="tabpanel" aria-labelledby="accordionHelp" aria-expanded="false" aria-hidden="false" tabindex="-1">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-6 col-md-3">
+                                <a href="https://assistance.orange.fr/ordinateurs-peripheriques/installer-et-utiliser/un-service-d-orange/les-services-de-communication/pages-perso" target="_blank" class="help-link">
+                                    <div class="icon icon-help-guide"></div>
+                                    <div class="help-label">Accéder à l'assistance</div>
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a href="http://astucespagesperso.monsite-orange.fr/" target="_blank" class="help-link">
+                                    <div class="icon icon-orange-experts-expert"></div>
+                                    <div class="help-label">Site « Trucs et astuces »</div>
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a href="#" class="video-demo-link help-link">
+                                    <div class="icon icon-video"></div>
+                                    <div class="help-label">Vidéo de démo de l’assistant</div>
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a href="/pages-perso-more" target="_blank" class="help-link">
+                                    <div class="icon icon-info"></div>
+                                    <div class="help-label">En savoir + sur l’offre</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row moderation">
+                            <div class="col-12 col-sm-2 col-md-1 icon icon-1013-Reseau text-center"></div>
+                            <div class="col-12 col-sm-10 col-md-7 mb-2">
+                                Vous avez trouvé sur les pages perso Orange un contenu manifestement illicite ou inapproprié ? Signalez-le nous.
+                            </div>
+                            <div class="col-sm-12 col-md-4 text-center text-md-right">
+                                <a href="#" onclick="javascript:window.open('http://formulaires.services.orange.fr/253', 'Contact', 'height=550,width=700,menubar=no,scrollbars=no,toolbar=no,resizable=no');
+                                        return false;" class="btn btn-moderation">
+                                    Alerter la modération
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div id="month-selection-section" class="row">
+        <h1 class="col-12 mb-1">La sélection du mois</h1>
+        <span class="col-12 h5 mb-1 text-muted">De la vie, du vert, des victuailles et des voitures</span>
+                    <div class="col-12 col-sm-6 col-md-3">
+                <a class="card o-card-link" href="http://lesplaisirsdupalais.monsite-orange.fr" target="_blank" rel="noopener noreferrer">
+                    <div class="card-img"><img src="/Magic/Icons/2018-05 Plaisirs du palais_2.jpg" alt="Les Plaisirs du Palais"></div>
+                    <div class="card-body">
+                        <span class="card-title h4">Les Plaisirs du Palais</span>
+                        <p class="card-text">Traiteur en charcuterie et conserverie bio</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="col-12 col-sm-6 col-md-3">
+                <a class="card o-card-link" href="http://c71va.pagesperso-orange.fr" target="_blank" rel="noopener noreferrer">
+                    <div class="card-img"><img src="/Magic/Icons/2018-05 C71va voitures anciennes.jpg" alt="C71VA"></div>
+                    <div class="card-body">
+                        <span class="card-title h4">C71VA</span>
+                        <p class="card-text">Un club de passionnés de voitures anciennes multimarques</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="col-12 col-sm-6 col-md-3">
+                <a class="card o-card-link" href="http://jcarl.simonetti.pagesperso-orange.fr" target="_blank" rel="noopener noreferrer">
+                    <div class="card-img"><img src="/Magic/Icons/2018-05 Fats Waller_2.jpg" alt="Fats Waller, sa vie, son œuvre"></div>
+                    <div class="card-body">
+                        <span class="card-title h4">Fats Waller, sa vie, son œuvre</span>
+                        <p class="card-text">Hommage au grand Jazzman américain</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="col-12 col-sm-6 col-md-3">
+                <a class="card o-card-link" href="http://gitelevertgalant.monsite-orange.fr" target="_blank" rel="noopener noreferrer">
+                    <div class="card-img"><img src="/Magic/Icons/2018-05 Gîte Vert galant.jpg" alt="Gîte le Vert galant"></div>
+                    <div class="card-body">
+                        <span class="card-title h4">Gîte le Vert galant</span>
+                        <p class="card-text">Découvrez ce gîte paisible et verdoyant près d'Honfleur</p>
+                    </div>
+                </a>
+            </div>
+        
+    </div>
+
+    <div id="month-selection-info-section" class="row accordion-section">
+        <div class="col-md-12">
+            <div class="o-accordion" role="tablist">
+                <div class="card">
+                    <div class="card-header" role="tab" id="accordionMonthSelectionInfo">
+                        <h4 class="card-title"><a class="collapsed" role="tab" data-toggle="collapse" href="#collapseMonthSelectionInfo" aria-expanded="false" aria-controls="collapseMonthSelectionInfo">Comment faire pour être sélectionné ?</a></h4>
+                    </div>
+                    <div id="collapseMonthSelectionInfo" class="collapse" role="tabpanel" aria-labelledby="accordionMonthSelectionInfo" aria-expanded="false" aria-hidden="false" tabindex="-1">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <p>Si vous aussi, vous voulez que votre site soit sélectionné parmi les 4 sites à la une, voici quelques astuces pour mettre toutes les chances de votre côté&nbsp;:</p>
+                                    <ul class="o-square-list">
+                                        <li>Enregistrez votre site dans l’annuaire des Pages perso (obligatoire pour être sélectionné)</li>
+                                        <li>N’oubliez pas de le mettre à jour régulièrement</li>
+                                        <li>Utilisez au maximum les fonctionnalités offertes (ex : textes, photos, vidéos, formulaires...)</li>
+                                        <li>Soignez vos contenus (qui doivent aussi respecter les <a href="pages-perso-cgu" class="text-primary">Conditions Générales</a> du service) et le rendu de votre site</li>
+                                        <li>Faites en sorte que votre site comporte un nom et une adresse de contact</li>
+                                        <li>Et pour finir, n’oubliez pas de faire preuve de créativité !</li>
+                                    </ul>
+                                    <p>Bonne chance à tous !</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div id="last-registred-section" class="row">
+        <h1 class="col-md-12">Les derniers inscrits à l'annuaire</h1>
+        <div class="col-12 col-md-6">
+            <div class="list-group">
+                                                            <a href="http://MT75.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 04 Juin 2018 à 12h03</span>
+                            <div class="name h6">MOTO TAXI PARISIEN </div>
+                            <div class="url-link text-primary text-truncate">http://MT75.monsite-orange.fr</div>
+                        </a>
+                                                                                <a href="http://amicaledds.pagesperso-orange.fr" class="list-group-item">
+                            <span class="date"> le 04 Juin 2018 à 10h44</span>
+                            <div class="name h6">Amicale des Donneurs de Sang de Salles d'Aude (11) </div>
+                            <div class="url-link text-primary text-truncate">http://amicaledds.pagesperso-orange.fr</div>
+                        </a>
+                                                                                <a href="http://t6pilotegreg.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 04 Juin 2018 à 10h09</span>
+                            <div class="name h6">espacebonheur </div>
+                            <div class="url-link text-primary text-truncate">http://t6pilotegreg.monsite-orange.fr</div>
+                        </a>
+                                                                                <a href="http://Tikam974.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 04 Juin 2018 à 00h21</span>
+                            <div class="name h6">Tikam974 johnsez </div>
+                            <div class="url-link text-primary text-truncate">http://Tikam974.monsite-orange.fr</div>
+                        </a>
+                                                                                                                                                                                    
+            </div>
+        </div>
+        <div class="col-12 col-md-6">
+            <div class="list-group second-list">
+                                                                                                                                                                                                            <a href="http://Aquarelletikam974.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 04 Juin 2018 à 00h13</span>
+                            <div class="name h6">Aquarelletikampassion </div>
+                            <div class="url-link text-primary text-truncate">http://Aquarelletikam974.monsite-orange.fr</div>
+                        </a>
+                                                                                <a href="http://Eymet-House-For-Sale.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 03 Juin 2018 à 20h58</span>
+                            <div class="name h6">Eymet maison a vendre </div>
+                            <div class="url-link text-primary text-truncate">http://Eymet-House-For-Sale.monsite-orange.fr</div>
+                        </a>
+                                                                                <a href="http://process-ers.pagesperso-orange.fr" class="list-group-item">
+                            <span class="date"> le 03 Juin 2018 à 20h44</span>
+                            <div class="name h6">Process-Ers: Processing Developpement </div>
+                            <div class="url-link text-primary text-truncate">http://process-ers.pagesperso-orange.fr</div>
+                        </a>
+                                                                                <a href="http://abdoulba.monsite-orange.fr" class="list-group-item">
+                            <span class="date"> le 03 Juin 2018 à 20h06</span>
+                            <div class="name h6">BA Abdoul </div>
+                            <div class="url-link text-primary text-truncate">http://abdoulba.monsite-orange.fr</div>
+                        </a>
+                                    
+            </div>
+        </div>
+        <div class="col-md-12">
+            <a href="https://annuaire-pp.orange.fr/derniers-inscrits" class="o-link-arrow float-right mt-2">Voir les derniers inscrits à l’annuaire</a>
+        </div>
+    </div>
+
+    <div id="contact-section" class="row">
+    <h1 class="col-md-12">Contacter Orange</h1>
+    <div class="col-12 col-sm-6">
+        <div class="list-group mb-2">
+            <a href="#" onclick="javascript:window.open('http://formulaires.services.orange.fr/22', 'Contact', 'height=550,width=700,menubar=no,scrollbars=no,toolbar=no,resizable=no');
+                    return false;" class="list-group-item">
+                <h5 class="list-group-item-heading"><span class="icon icon-dialler"></span> Nous contacter</h5>
+            </a>
+        </div>
+    </div>
+            <div class="col-12 col-sm-6">
+            <div class="list-group">
+                <a href="#" onclick="javascript:window.open('http://formulaires.services.orange.fr/253', 'Contact', 'height=550,width=700,menubar=no,scrollbars=no,toolbar=no,resizable=no');
+                    return false;" class="list-group-item" data-toggle="tooltip" data-placement="top" title="Signalez-nous un contenu illicite ou inapproprié sur les pages perso">
+                    <h5 class="list-group-item-heading"><span class="icon icon-administrator"></span> Alerter la modération</h5>
+                </a>
+            </div>
+        </div>
+    </div>
+</main>
+    </div>
+
+    <footer id="footer" class="o-footer" role="contentinfo">
+    <div class="o-footer-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-sm-12">
+                    <h2>Pages perso</h2>
+                    <ul class="nav flex-column">
+                        <li><a href="https://pages.perso.orange.fr/">Accueil</a></li>
+                        <li><a href="pages-perso-more">Détail de l’offre </a></li>
+                        <li><a href="pages-perso-cgu">Conditions générales</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-md-1 mb-4"></div>
+
+                                    <div class="col-md-9 col-sm-12">
+                        <div class="row">
+                            <div class="col-md-3 col-6">
+                                <h2>Annuaire</h2>
+                                <ul class="nav flex-column">
+                                                                                                                        <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/337" class="text-capitalize"> actu, média</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/1" class="text-capitalize"> adulte</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/339" class="text-capitalize"> art, culture</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/346" class="text-capitalize"> économie, finance</a>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-6">
+                                <div class="h2 mt-2">&nbsp;</div>
+                                <ul class="nav flex-column">
+                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/355" class="text-capitalize"> famille, communautés</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/340" class="text-capitalize"> inform@tique</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/348" class="text-capitalize"> jobs, formations</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/341" class="text-capitalize"> loisirs, tourisme</a>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-6">
+                                <div class="h2 mt-2 d-none d-md-block">&nbsp;</div>
+                                <ul class="nav flex-column">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/358" class="text-capitalize"> régions, pays</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/342" class="text-capitalize"> santé, médecine</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/344" class="text-capitalize"> sciences, technos</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/338" class="text-capitalize"> société, politique</a>
+                                            </li>
+                                                                                                                                                                                                                                    
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-6">
+                                <div class="h2 mt-2 d-none d-md-block">&nbsp;</div>
+                                <ul class="nav flex-column">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/356" class="text-capitalize"> sport</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://annuaire-pp.orange.fr/annuaire/categorie/357" class="text-capitalize"> vie pratique</a>
+                                            </li>
+                                                                            
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <!-- modals -->
+                        <div class="modal fade" id="modal-video" tabindex="-1" role="dialog" aria-labelledby="modal-video">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="card">
+                                            <h3 class="modal-title">Vidéo de démonstration pages perso</h3>
+                                    </div>
+                <button type="button" class="btn" data-dismiss="modal"><span class="close"><span aria-hidden="true"></span><span class="sr-only">Close</span></span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="embed-responsive embed-responsive-16by9">
+                                                                                                <div id="demo-video" class="pms" data-id="x1vlr84" data-url="//pms.orange.fr/module/pm/146/videoInfos/6546110"></div>
+                                                    
+                                                    </div>
+                    </div>
+                </div>
+                <!--<div class="row d-none" section="dont-show-again">
+                    <div class="col-sm-12">
+                        <label class="custom-control custom-checkbox pt-3">
+                            <input type="checkbox" id="dont-show-again" class="custom-control-input" required>
+                            <span class="custom-control-indicator"></span>
+                            <span class="custom-control-description"> ne plus afficher la vidéo au démarrage</span>
+                        </label>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+</div>
+        
+    
+            <script src="https://pages.perso.woopic.com/fo/js/vendor/jquery-3.2.1.min.js?v=6158"></script>
+        <script src="https://pages.perso.woopic.com/fo/js/vendor/lodash.min.js?v=6158"></script>
+        <script src="https://pages.perso.woopic.com/fo/js/vendor/jsrender.min.js?v=6158"></script>
+        <script src="https://pages.perso.woopic.com/fo/js/vendor/popper.min.js?v=6158"></script>
+        <script src="https://pages.perso.woopic.com/fo/js/vendor/boosted.min.js?v=6158"></script>
+        <script src="https://pages.perso.woopic.com/fo/js/main.js?v=6158"></script>
+    
+    <!-- Pop-in WebxMS-->
+    <script src="//static.fresh.woopic.com/current/popin/last/js/fhPopinHost.js?v=6158"></script>
+    <script src="https://pages.perso.woopic.com/fo/js/popin-webxms.js?v=6158"></script>
+
+    <div id="div_footer"></div>
+    <script>
+                var messageList = null;
+        
+        /* Load the footer from the common elements */
+        (function waitForOrangeFooter() {
+            if (typeof head.ready === 'function') {
+                head.ready(function () {
+                    o_footer('', 'div_footer');
+                });
+            } else {
+                setTimeout(waitForOrangeFooter, 50);
+            }
+        })();
+    </script>
+</body>
+</html>
